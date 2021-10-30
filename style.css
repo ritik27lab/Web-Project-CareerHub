@@ -1,0 +1,88 @@
+nav{
+/* background-color: black; */
+}
+.items{
+    background: color cornflowerblue;
+    margin: 10px;
+    height: 50px;
+    padding: 30px;
+    list-style-type:none;
+    padding-left: 70px;
+}
+.item{
+    display: inline-block;
+}
+a{
+    text-decoration: solid;
+    letter-spacing: 3px;
+}
+a:hover{
+    background-color: rgba(220, 20, 60, 0);
+    color: black;
+}
+
+.main  {
+    color: chocolate;
+    font-style: oblique;
+    font-size: x-large;
+    text-shadow: firebrick;
+    
+} 
+
+.Home {
+    font-style: italic;
+    color: darkorange;
+}
+  
+    
+p{
+   font-size: 16px;
+    font-style: italic;
+    color: rgb(102, 101, 97);
+    padding-top: 18px;
+}
+.text{
+    font: lighter;
+    color: seashell;
+}
+.Button{
+    color: brown;
+}
+.ch{
+    max-width: 20%;
+    margin-right: 15%;
+    margin-left: -2.5%;
+    padding-left: -25%;
+   padding-bottom: 30px;
+
+   
+    
+}
+
+
+.query{
+    font-weight:bolder;
+    font-size: xx-large;
+    color: darkcyan;
+}
+.feed{
+    font-style: italic;
+    font-size: large;
+    color: rebeccapurple;
+}
+.relative{
+    text-align: center;
+}
+.im{
+    max-width: 110%;
+
+}
+ .i img{
+    max-width: 20%;
+}
+.courses{
+    color: crimson;
+}
+.r1{
+    color: darkorange;
+}
